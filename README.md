@@ -32,6 +32,7 @@ jQeury flip é mantido por Nattawat Nonsung (criador), Jemar Jones e Stijn de Wi
 _______________________________________________________________________________________________________________________________
 
 Some screenshots - Alguns Screenshots:<br />
+<b>More images at the Screenshots folder - Mais imagens na pasta Screenshots </b> <br />
 • Main Page (Index) - Página principal (index)<br />
 ![alt tag](https://github.com/kaeuchoa/Web2_FinalProject/blob/master/images/index.png)
 • Products Page - Página de Produtos<br />
