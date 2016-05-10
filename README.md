@@ -1,6 +1,6 @@
 # Web2_FinalProject - Projeto Final Web 2
 ____________________________________________________________________________________________________________________________
-Generic website done to obtain grade on course CSIT 207 - Web Programming 2 at SUNY at Fredonia, on the Spring semester of 2016.
+Generic website done to obtain grade on course CSIT 207 - Web Programming 2 at SUNY at Fredonia, on the Spring semester of 2016.<br />
 Work developed using PHP, CSS-only (no frameworks), and some JavaScript embedded within a few PHP files. 
 Local database in MySQL using XAMPP server.
 
