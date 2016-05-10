@@ -4,18 +4,18 @@ Generic website done to obtain grade on course CSIT 207 - Web Programming 2 at S
 Work developed using PHP, CSS-only (no frameworks), and some JavaScript embedded within a few PHP files. 
 Local database in MySQL using XAMPP server.
 
-Website genérico feito para obtenção de nota na matéria CSIT 207 - Programação para Web 2 na SUNY em Fredonia, semestre da primavera de 2016.
+Website genérico feito para obtenção de nota na matéria CSIT 207 - Programação para Web 2 na SUNY em Fredonia, semestre da primavera de 2016.<br />
 Trabalho desenvolvido usando PHP, CSS (sem frameworks) e um pouco de JavaScript encorporado em alguns arquivos PHP. 
 Banco de dados local em MySQL usando servidor XAMPP.
 
 ____________________________________________________________________________________________________________________________
-Product Images by copyright 1996-2016, Amazon.com, Inc. or its affiliates.
+Product Images by copyright 1996-2016, Amazon.com, Inc. or its affiliates.<br />
 Imagens dos produtos por copyright 1996-2016, Amazon.com, Inc. ou seus afiliados.
 
-Icons by Noun Project:
+Icons by Noun Project:<br />
 Ícones por Noun Project:
 
-• User profile icon by Bryn Taylor - ícone do Perfil do Usuário
+• User profile icon by Bryn Taylor - ícone do Perfil do Usuário<br />
 • Sign out icon by Marat Magomedov - ícone de Sign out
 • Edit profile icon (pencil) By Vectors Market - ícone de Editar Perfil
 • List items icon by Picons.me - ícone de listar itens
