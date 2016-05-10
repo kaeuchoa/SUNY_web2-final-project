@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 26, 2016, 11:50:47 PM
+    Author     : kaeuc
+*/
+
+/*NAV BAR IMAGES START*/
+.navIcon{ 
+    width: 25px;
+    height: 25px;
+}
+.navIcon:hover{
+    -webkit-filter: drop-shadow(0px 2px 5px rgb(100, 200, 255));
+    filter:         drop-shadow(0px 2px 5px rgb(100, 200, 255));
+}
+
+#storeLogo img{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+
+/*NAV BAR IMAGES END*/
+
+/*PROFILE IMAGES - START*/ 
+.titleBar img:hover{
+    -webkit-filter: drop-shadow(0px 0px 5px rgb(100, 200, 255));
+    filter: drop-shadow(0px 0px 5px rgb(100, 200, 255));
+}
+
+.iconImg{
+    width:17px;
+    height:20px;
+}
+
+.products-images{
+    height: 23%;
+    width: 24.35%;
+    border-right: 4px solid rgba(36,110,255,.3);
+
+}
+.profile-options img{
+    height: 20px;
+    width: 20px;
+    padding-right: 5px; 
+}
+/*PROFILE IMAGES - END*/ 
+
+/*ADD PRODUCT - START*/
+
+.productBox img{
+    display: block;
+    width: auto;
+    margin: auto;
+    max-height: 100%;
+}
+
+/*ADD PRODUCT - END*/
+
+
+

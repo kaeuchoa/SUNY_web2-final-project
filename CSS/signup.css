@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Mar 25, 2016, 9:08:16 PM
+    Author     : kaeuc
+*/
+
+#signUpImgBox{
+    float: left;
+    /*background-color: lightgray;*/
+    width: 32.333%;
+    margin-right: 2%;
+    height: 50%;
+    /*border: 1px black solid;*/
+}
+
+#signUpImgBox img{
+    height: 98%;
+    z-index: -1;
+    width: 100%;
+}
+
+#formBox{
+    float: left;
+    height: 50%;
+    width: 65%;
+    /*background-color: lightskyblue;*/
+}
+input[type="file"] {
+    display: none;
+}
+
+.container{
+    height: 73.3%;
+}

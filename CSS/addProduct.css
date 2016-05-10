@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Apr 25, 2016, 7:48:53 PM
+    Author     : kaeuc
+*/
+
+#productImgBox{
+    float: left;
+    /*background-color: lightgray;*/
+    width: 23%;
+    margin-right: 2%;
+
+}
+
+#formBox{
+    float: left;
+    height: 50%;
+    width: 65%;
+    /*background-color: lightskyblue;*/
+}
+
+#product-image{
+    min-height: 300px;
+    min-width: 300px;
+    max-height: 450px;
+    max-width: 450px;
+}
+input[type="file"] {
+    display: none;
+}
+.productBox img{
+    max-width: 100%;
+
+}
+
+.price input[type=number]::-webkit-inner-spin-button,
+.price input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.container{
+    height: 73.3%;
+}

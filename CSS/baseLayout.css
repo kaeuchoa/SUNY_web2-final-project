@@ -1,0 +1,208 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Mar 10, 2016, 2:29:17 PM
+    Author     : kaeuc
+*/
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+html,body,div,h1,h2,h3,h4{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    font-family: Ronboto,sans-serif;
+    vertical-align: baseline;
+}
+/*LAYOUT STYLES START*/
+
+.container{
+    margin: auto;
+    height: auto;
+    width: 768px;
+    background-color: rgb(252, 252, 252);
+    margin-top: 100px;
+    margin-bottom: 80px;
+    /*box-shadow: 0px 0px 2px #cccccc;*/
+}
+
+/*NAV BAR START*/
+
+.myNavBar{
+    z-index: 2;
+    position: fixed;
+    top:0;
+    background-color: rgb(36,110,255);
+    color: white;
+    width: 100%;
+    height: 80px;
+    font-size: 130%;
+    box-shadow: 0px 0px 8px rgb(30, 80, 255);
+}
+
+.myNavBar .links{
+    width: 20%;
+    height: 85%;
+    float: left;
+    margin-left: 5%;
+    display: inline-block;
+    margin-top: 10px;
+}
+.myNavBar li{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.searchBar{
+    display: inline-block;
+    float: left; 
+    margin-top: 30px;
+    width: 30%;
+}
+
+#searchInput{
+    width: 400px !important;
+}
+
+#loginArea{    
+    float: right;
+    width: 45%;
+    height: 85%;
+    margin-top: 10px;
+    display: inline;
+    font-size: 80%;
+}
+#userOptions{
+    float: right;
+    margin-right: 10%;
+}
+
+#storeLogo{
+    float:left;
+    left: 8px;
+    display: inline-block;
+
+}
+
+#searchInput{
+    width: 100%;
+}
+
+/*NAV BAR END*/
+
+
+/*FOOTER START*/
+footer{
+    /*position: fixed;*/
+    /*display: none;*/
+    background-color: rgb(36,110,255);
+    /*bottom: 0;*/
+    width: 100%;
+    box-shadow: 0px 0px 8px rgb(30, 80, 255);
+    height: 80px;
+}
+.footerArea{
+    text-align: center;
+    margin: auto;
+    color: white;
+
+}
+
+/*FOOTER END*/
+
+
+/*LAYOUT STYLES END*/
+
+
+/*BODY START*/
+
+.rowContainer{
+    width: 100%;;
+    height: 25%;
+    /*    background-color: lightgray;*/
+    margin-bottom: 2%;
+}
+
+.productBox{
+    width: 23%;
+    margin-left: 1.5%;
+    height: 100%; 
+    float:left;
+    display: inline-block;
+}
+
+/*FORMS START*/
+.formBox{
+    width: 1200px;
+    height: 100%;
+    float: right; 
+}
+
+
+.formBox input{
+    width: 80%;
+    height: 40px;
+}
+.formGroup{
+    display: inline;
+}
+.formBox .button{
+    width: 20%;
+    right: 20px;
+}
+
+.formBox hr{
+    width: 100%;
+    color: rgba(55,55,55,0.8);
+    margin: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+
+/*FORM END*/
+
+
+/*BODY END*/
+
+
+/*404 ERROR START*/
+#404text{
+    float: left;
+    width: 50%;
+    height: 100%;
+
+}
+
+#404text h1{
+    color: rgb(0,110,255);
+}
+/*404 ERROR END*/
+
+
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    margin: 0;
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .container{
+        width: 1000px;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .container{
+        width: 1400px;
+    }
+
+}

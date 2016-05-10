@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 29, 2016, 7:54:57 PM
+    Author     : kaeuc
+*/
+@font-face {
+
+    font-family: Agency FB;
+
+    src: url(../fonts/agency_fb.ttf);
+
+    font-style:normal;
+
+}
+
+.container{
+    background-color: transparent;
+    height: auto;
+}
+body{
+    background-image: url(../error_pages/404.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: -3;
+
+}
+
+h4{
+    font-family: Agency FB;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+a,a:active,a:visited{
+    text-decoration: none;
+    color: inherit;
+}
