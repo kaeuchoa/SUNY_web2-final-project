@@ -16,29 +16,29 @@ Icons by Noun Project:<br />
 Ícones por Noun Project:
 
 • User profile icon by Bryn Taylor - ícone do Perfil do Usuário<br />
-• Sign out icon by Marat Magomedov - ícone de Sign out
-• Edit profile icon (pencil) By Vectors Market - ícone de Editar Perfil
-• List items icon by Picons.me - ícone de listar itens
-• Delete account icon by Joao Santos - ícone de deletar conta
-• Add product icon by Designify.me - ícone de adicionar produto
+• Sign out icon by Marat Magomedov - ícone de Sign out<br />
+• Edit profile icon (pencil) By Vectors Market - ícone de Editar Perfil<br />
+• List items icon by Picons.me - ícone de listar itens<br />
+• Delete account icon by Joao Santos - ícone de deletar conta<br />
+• Add product icon by Designify.me - ícone de adicionar produto<br />
 
-Ubuntu logo by © 2016 Canonical Ltd
+Ubuntu logo by © 2016 Canonical Ltd<br />
 
-Roboto Font from Google by Christian Robertson
+Roboto Font from Google by Christian Robertson<br />
 
-Flip card effect - Efeito de virar cartas: 
-jQeury flip is being maintained by Nattawat Nonsung (author), Jemar Jones and Stijn de Witt.
-jQeury flip é mantido por Nattawat Nonsung (criador), Jemar Jones e Stijn de Witt.
+Flip card effect - Efeito de virar cartas: <br />
+jQeury flip is being maintained by Nattawat Nonsung (author), Jemar Jones and Stijn de Witt.<br />
+jQeury flip é mantido por Nattawat Nonsung (criador), Jemar Jones e Stijn de Witt.<br />
 _______________________________________________________________________________________________________________________________
 
-Some screenshots - Alguns Screenshots:
-• Main Page (Index) - Página principal (index)
+Some screenshots - Alguns Screenshots:<br />
+• Main Page (Index) - Página principal (index)<br />
 ![alt tag](https://github.com/kaeuchoa/Web2_FinalProject/blob/master/images/index.png)
-• Products Page - Página de Produtos
+• Products Page - Página de Produtos<br />
 ![alt tag](https://github.com/kaeuchoa/Web2_FinalProject/blob/master/images/Products%20Page.png)
-• User's Products Page - Página de Produtos do Usuário
+• User's Products Page - Página de Produtos do Usuário<br />
 ![alt tag](https://github.com/kaeuchoa/Web2_FinalProject/blob/master/images/User's%20Products%20Page%204.png)
-• Profile Page - Página de Perfil
+• Profile Page - Página de Perfil<br />
 ![alt tag](https://github.com/kaeuchoa/Web2_FinalProject/blob/master/images/Profile%20Page.png)
 
 
